@@ -1,0 +1,59 @@
+#form {
+  max-width:333px;
+  width:90%;
+  position:relative;
+  left:50%;
+  top:10%;
+  padding:40px;
+  border-radius:4px;
+  transform:translate(-50%, 10%);
+  color:#fff;
+  box-shadow:3px 3px 4px rgba(0,0,0,0.2);
+}
+
+#head {
+  text-align:center;
+}
+
+#image {
+  margin:auto;
+  width:50%;
+  padding:10px;
+  max-height:175px;
+  max-width:175px;
+}
+
+#linkas {
+  display:block;
+  text-align:center;
+  font-size:12px;
+  opacity:0.9;
+  text-decoration:none;
+}
+
+#butonas {
+  background:#70b2d0;
+  outline:none;
+  text-shadow:initial;
+}
+
+#formum {
+  background:none;
+  border:none;
+  border-bottom:1px solid #434a52;
+  border-radius:0;
+  box-shadow:none;
+  outline:none;
+  color:inherit;
+}
+
+#formum2 {
+  background:none;
+  border:none;
+  border-bottom:1px solid #434a52;
+  border-radius:0;
+  box-shadow:none;
+  outline:none;
+  color:inherit;
+}
+
